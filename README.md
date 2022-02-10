@@ -1,4 +1,5 @@
 <h1>RampantDock</h1>
+<h3>As of 02/09/2022, I'm no longer going to keep working on this project. I've been working on a revamp on the app which will have a release in the next few weeks. I will update the README.md to point to that when it's released.</h3>
 <p>Before explaining this app, I want to thank everyone that followed this app when it only focused on TweetDeck! The original goal of this project was to bring back the TweetDeck Desktop client that they stopped support for a while back.</p>
 <p>After 8 releases and tons of work, I'm pleased to announce that I've changed this app from focusing on TweetDeck to focusing on highly needed resources! This app can help you by checking emails, tweets, and even playing music or background noise.</p>
 <h3>Features</h3>
